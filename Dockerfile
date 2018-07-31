@@ -1,4 +1,4 @@
-FROM node:8.9.3-slim
+FROM node:8.11.3-slim
 
 
 ENV METEOR_ALLOW_SUPERUSER=true
